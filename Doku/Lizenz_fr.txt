@@ -1,0 +1,4 @@
+Ce programme se trouve sous licence GPL V3.
+Ce programme est développer avec QT-Creator. Il est lier dynamiquement a la Bibliothèque QT (V5.x)
+qui est sous la LGPL V2.1
+Une copie des deux license se trouve avec le programme. 
